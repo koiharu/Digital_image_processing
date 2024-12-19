@@ -1,6 +1,7 @@
 ## Hi there 👋
 This project is built with MATLAB Online(basic) tough it has a 20 hours limit every month.
-The UI is built by App designer also in MATLAB Online
+
+The UI is built by App designer, also in MATLAB Online.
 #
 <!--
 **koiharu/koiharu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
