@@ -4,7 +4,7 @@ This project is built with MATLAB Online(basic) tough it has a 20 hours limit ev
 The UI is built by App designer, also in MATLAB Online.
 
 12.25
-I got a 30days free liscence to use the MATLAB Online and finished this project
+I got a 30days free liscence to use the MATLAB Online and completed this project
 
 It has some tools that basic dont has
 #
