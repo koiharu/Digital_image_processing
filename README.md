@@ -2,6 +2,11 @@
 This project is built with MATLAB Online(basic) tough it has a 20 hours limit every month.
 
 The UI is built by App designer, also in MATLAB Online.
+
+12.25
+I got a 30days free liscence to use the MATLAB Online and finished this project
+
+It has some tools that basic dont has
 #
 <!--
 **koiharu/koiharu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
